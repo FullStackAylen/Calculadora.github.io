@@ -39,13 +39,6 @@ Permite realizar operaciones básicas y algunas funciones matemáticas avanzadas
    ```bash
    git clone https://github.com/tu-usuario/calculadora.git
 
-calculadora/
-├── index.html
-├── style.css
-├── script.js
-├── normalize.css
-├── screenshot.png (opcional)
-└── README.md
 
 👩‍💻 Desarrollado por
 Aylen Rodriguez – Full Stack Developer
