@@ -39,7 +39,15 @@ Permite realizar operaciones básicas y algunas funciones matemáticas avanzadas
    ```bash
    git clone https://github.com/tu-usuario/calculadora.git
 
+---
 
-👩‍💻 Desarrollado por
-Aylen Rodriguez – Full Stack Developer
-💻 Portfolio | 📧 aylendeveloper@gmail.com
+## ✍️ Autor
+
+Creado por **Aylen Rodriguez**  
+📌 FullStack Developer
+
+---
+
+## 📄 Licencia
+
+Este proyecto es de uso libre para fines educativos o personales.
